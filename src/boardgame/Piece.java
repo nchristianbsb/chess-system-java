@@ -16,9 +16,5 @@ public class Piece {
 	protected Board getBoar() {
 		return boar;
 	}
-	
-	
-	
-	
 
 }
