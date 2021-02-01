@@ -33,5 +33,5 @@ public class Position {
 	public String toString() {
 		return "Position: [row=" + row + ", column=" + column + "]";
 	}
-	
+
 }
